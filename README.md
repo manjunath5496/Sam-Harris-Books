@@ -32,7 +32,7 @@
 </tr>
 <tr>
 <th scope="row">Subject</th>
-<td><a title="Neuroscience" href="https://en.wikipedia.org/wiki/Neuroscience">Neuroscience</a>,&nbsp;<a title="Philosophy" href="https://en.wikipedia.org/wiki/Philosophy">philosophy</a>,<sup id="cite_ref-pardi_2-0" class="reference"><a href="https://en.wikipedia.org/wiki/Sam_Harris#cite_note-pardi-2">[2]</a></sup>&nbsp;<a title="Religion" href="https://en.wikipedia.org/wiki/Religion">religion</a>,&nbsp;<a title="Spirituality" href="https://en.wikipedia.org/wiki/Spirituality">spirituality</a>,&nbsp;<a title="Ethics" href="https://en.wikipedia.org/wiki/Ethics">ethics</a>,&nbsp;<a title="Politics" href="https://en.wikipedia.org/wiki/Politics">politics</a></td>
+<td><a title="Neuroscience" href="https://en.wikipedia.org/wiki/Neuroscience">Neuroscience</a>,&nbsp;<a title="Philosophy" href="https://en.wikipedia.org/wiki/Philosophy">philosophy</a>,&nbsp;<a title="Religion" href="https://en.wikipedia.org/wiki/Religion">religion</a>,&nbsp;<a title="Spirituality" href="https://en.wikipedia.org/wiki/Spirituality">spirituality</a>,&nbsp;<a title="Ethics" href="https://en.wikipedia.org/wiki/Ethics">ethics</a>,&nbsp;<a title="Politics" href="https://en.wikipedia.org/wiki/Politics">politics</a></td>
 </tr>
 <tr>
 <th scope="row">Notable awards</th>
